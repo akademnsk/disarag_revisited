@@ -1,178 +1,58 @@
-This is BibTeX, Version 0.99d (TeX Live 2017)
-Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: disarag_achemso.aux
+Reallocating 'name_of_file' (item size: 1) to 8 items.
 The style file: achemso.bst
-Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocating 'name_of_file' (item size: 1) to 20 items.
+Reallocating 'name_of_file' (item size: 1) to 12 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
 Database file #1: acs-disarag_achemso.bib
 Database file #2: Gavr_scilib.bib
-I was expecting a `,' or a `}'---line 8 of file Gavr_scilib.bib
+I was expecting a `,' or a `}'---line 257 of file Gavr_scilib.bib
  :   
  :   note={submitted}
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-Repeated entry---line 337 of file Gavr_scilib.bib
- : @article{litasov2017
- :                     ,
-I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 922 of file Gavr_scilib.bib
- :   
- :   publisher={De Gruyter}
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-Repeated entry---line 1348 of file Gavr_scilib.bib
- : @article{shin2016
- :                  ,
-I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 1401 of file Gavr_scilib.bib
- :   
- :   author={Villiers, J. D. P.}
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-Repeated entry---line 1466 of file Gavr_scilib.bib
- : @article{bragg1924
- :                   ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2121 of file Gavr_scilib.bib
- : @article{gavr2019_arag
- :                       ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2148 of file Gavr_scilib.bib
- : @article{litasov2017
- :                     ,
-I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 2285 of file Gavr_scilib.bib
- :   
- :   pages={207--218},
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 3315 of file Gavr_scilib.bib
- :   
- :   publisher={De Gruyter}
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-Repeated entry---line 3605 of file Gavr_scilib.bib
- : @article{ye2012
- :                ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 3762 of file Gavr_scilib.bib
- : @article{bragg1924
- :                   ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 3773 of file Gavr_scilib.bib
- : @article{antao2009
- :                   ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 3805 of file Gavr_scilib.bib
- : @article{shin2016
- :                  ,
-I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 3870 of file Gavr_scilib.bib
- :   
- :   author={Villiers, J. D. P.}
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-Repeated entry---line 3879 of file Gavr_scilib.bib
- : @article{suzuki2012
- :                    ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 3901 of file Gavr_scilib.bib
- : @article{marsh1980
- :                   ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 3924 of file Gavr_scilib.bib
- : @article{bragg1924
- :                   ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 4048 of file Gavr_scilib.bib
- : @article{calcite
- :                 ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 4110 of file Gavr_scilib.bib
- : @article{merlini2014
- :                     ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 4186 of file Gavr_scilib.bib
- : @article{ishizawa2013
- :                      ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 4196 of file Gavr_scilib.bib
- : @article{smith2018
- :                   ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 4227 of file Gavr_scilib.bib
- : @article{litasov2017
- :                     ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 4311 of file Gavr_scilib.bib
- : @article{suito2001
- :                   ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 4441 of file Gavr_scilib.bib
- : @article{shatskiy2014_feco3
- :                            ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 4713 of file Gavr_scilib.bib
- : @article{hou2019_amorph
- :                        ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 5547 of file Gavr_scilib.bib
- : @article{perdew1992
- :                    ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 5591 of file Gavr_scilib.bib
- : @article{kresse1999
- :                    ,
-I'm skipping whatever remains of this entry
-achemso 2017/05/18 v3.10i
-ptr=2, stack=
-Lobanov,~S.~S.; Dong,~X.; Martirosyan,~N.~S.; Samtsevich,~A.~I.; Stevanovic,~V.; Gavryushkin,~P.~N.; Litasov,~K.~D.; Greenberg,~E.; Prakapenka,~V.~B.; Oganov,~A.~R.
-
----the literal stack isn't empty for entry lobanov2017
-while executing---line 1700 of file achemso.bst
-ptr=2, stack=
-Shin,~Y.~A.; Yin,~S.; Li,~X.; Lee,~S.; Moon,~S.; Jeong,~J.; Kwon,~M.; Yoo,~S.~J.; Kim,~Y.-M.; Zhang,~T.
-
----the literal stack isn't empty for entry shin2016
-while executing---line 1700 of file achemso.bst
+achemso 2020-07-21 v3.13b
 You've used 35 entries,
-            2536 wiz_defined-function locations,
-            976 strings with 14446 characters,
-and the built_in function-call counts, 13036 in all, are:
-= -- 945
+            2538 wiz_defined-function locations,
+            979 strings with 14096 characters,
+and the built_in function-call counts, 13765 in all, are:
+= -- 1066
 > -- 922
 < -- 15
 + -- 364
 - -- 331
-* -- 1470
-:= -- 1806
-add.period$ -- 34
+* -- 1525
+:= -- 1890
+add.period$ -- 67
 call.type$ -- 35
 change.case$ -- 4
 chr.to.int$ -- 2
 cite$ -- 35
-duplicate$ -- 737
-empty$ -- 747
+duplicate$ -- 772
+empty$ -- 830
 format.name$ -- 372
-if$ -- 2393
+if$ -- 2594
 int.to.chr$ -- 0
 int.to.str$ -- 1
 missing$ -- 0
 newline$ -- 232
 num.names$ -- 102
-pop$ -- 65
+pop$ -- 64
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
 skip$ -- 34
 stack$ -- 0
-substring$ -- 675
-swap$ -- 846
+substring$ -- 717
+swap$ -- 883
 text.length$ -- 68
 text.prefix$ -- 0
 top$ -- 1
 type$ -- 242
 warning$ -- 0
-while$ -- 125
+while$ -- 128
 width$ -- 0
-write$ -- 432
-(There were 30 error messages)
+write$ -- 468
+(There was 1 error message)

@@ -1,0 +1,367 @@
+#Disarag
+
+@article{gavr2017_aragII,
+  title={Aragonite-{III} and {CaCO$_3$}-{VII}: New high-pressure, high-temperature polymorphs of {CaCO$_3$}},
+  author={Gavryushkin, Pavel N and Martirosyan, Naira S and Inerbaev, Talgat M and Popov, Zakhar I and Rashchenko, Sergey V and Likhacheva, Anna Yu and Lobanov, Sergey S and Goncharov, Alexander F and Prakapenka, Vitali B and Litasov, Konstantin D},
+  journal={Cryst. Growth Des.},
+  volume={17},
+  number={12},
+  pages={6291--6296},
+  year={2017},
+  publisher={ACS Publications}
+}
+
+@article{merlini2014,
+  title={Evidence of interspersed co-existing {CaCO$_3$}-{III} and {CaCO$_3$}-{III}b structures in polycrystalline {CaCO$_3$} at high pressure},
+  author={Merlini, Marco and Crichton, WA and Chantel, Julien and Guignard, Jeremy and Poli, Stefano},
+  journal={Mineral. Mag.},
+  volume={78},
+  number={2},
+  pages={225--233},
+  year={2014},
+  publisher={Mineralogical Society of Great Britain and Ireland}
+}
+
+@article{ishizawa2013,
+  title={Structural evolution of calcite at high temperatures: Phase {V} unveiled},
+  author={Ishizawa, Nobuo and Setoguchi, Hayato and Yanagisawa, Kazumichi},
+  journal={Sci. Rep.},
+  volume={3},
+  pages={2832},
+  year={2013},
+  publisher={Nature Publishing Group}
+}
+
+@article{dove2005,
+  title={Neutron powder diffraction study of the orientational order--disorder phase transition in calcite, {CaCO$_3$}},
+  author={Dove, Martin T and Swainson, Ian P and Powell, Brian M and Tennant, Donald C},
+  journal={Phys. Chem. Miner.},
+  volume={32},
+  number={7},
+  pages={493--503},
+  year={2005},
+  publisher={Springer}
+}
+
+@article{hou2019_amorph,
+  title={Temperature-induced amorphization in {CaCO$_3$} at high pressure and implications for recycled {CaCO$_3$} in subduction zones},
+  author={Hou, Mingqiang and Zhang, Qian and Tao, Renbiao and Liu, Hong and Kono, Yoshio and Mao, Ho-kwang and Yang, Wenge and Chen, Bin and Fei, Yingwei},
+  journal={Nat. Commun.},
+  volume={10},
+  number={1},
+  pages={1963},
+  year={2019},
+  publisher={Nature Publishing Group}
+}
+
+@article{smith2018,
+  title={Postaragonite phases of {CaCO$_3$} at lower mantle pressures},
+  author={Smith, Dean and Lawler, Keith V and Martinez-Canales, Miguel and Daykin, Austin W and Fussell, Zachary and Smith, G Alexander and Childs, Christian and Smith, Jesse S and Pickard, Chris J and Salamat, Ashkan},
+  journal={Phys. Rev. Mater.},
+  volume={2},
+  number={1},
+  pages={013605},
+  year={2018},
+  publisher={APS}
+}
+
+@article{lobanov2017,
+  title={Raman spectroscopy and {X}-ray diffraction of sp$^3$ {CaCO$_3$} at lower mantle pressures},
+  author={Lobanov, Sergey S and Dong, Xiao and Martirosyan, Naira S and Samtsevich, Artem I and Stevanovic, Vladan and Gavryushkin, Pavel N and Litasov, Konstantin D and Greenberg, Eran and Prakapenka, Vitali B and Oganov, Artem R and others},
+  journal={Phys. Rev. B},
+  volume={96},
+  number={10},
+  pages={104101},
+  year={2017},
+  publisher={APS}
+}
+
+@article{suito2001,
+  title={Phase relations of {CaCO$_3$} at high pressure and high temperature},
+  author={Suito, Kaichi and Namba, Junpei and Horikawa, Takashi and Taniguchi, Yozo and Sakurai, Noriko and Kobayashi, Michihiro and Onodera, Akifumi and Shimomura, Osamu and Kikegawa, Takumi},
+  journal={Am. Mineral.},
+  volume={86},
+  number={9},
+  pages={997--1002},
+  year={2001},
+  publisher={Mineralogical Society of America}
+}
+
+@article{litasov2017,
+  title={{PVT} equation of state of {CaCO$_3$} aragonite to 29 {GPa} and 1673 {K}: In situ {X}-ray diffraction study},
+  author={Litasov, Konstantin D and Shatskiy, Anton and Gavryushkin, Pavel N and Bekhtenova, Altyna E and Dorogokupets, Peter I and Danilov, Boris S and Higo, Yuji and Akilbekov, Abdirash T and Inerbaev, Talgat M},
+  journal={Phys. Earth Planet. Inter.},
+  volume={265},
+  pages={82--91},
+  year={2017},
+  publisher={Elsevier}
+}
+
+@article{shatskiy2014_feco3,
+  title={Phase relations in the system {FeCO$_3$}--{CaCO$_3$} at 6 {GPa} and 900--1700 C and its relation to the system {CaCO$_3$}-{FeCO$_3$}-{MgCO$_3$}},
+  author={Shatskiy, Anton and Borzdov, Yuri M and Litasov, Konstantin D and Kupriyanov, Igor N and Ohtani, Eiji and Palyanov, Yuri N},
+  journal={Am. Mineral.},
+  volume={99},
+  number={4},
+  pages={773--785},
+  year={2014},
+  publisher={Mineralogical Society of America}
+}
+
+@article{bragg1924,
+  title={The structure of aragonite},
+  author={Bragg, WL},
+  journal={Proc. R. Soc. A (London)},
+  volume={105},
+  number={729},
+  pages={16--39},
+  year={1924},
+  publisher={JSTOR}
+}
+
+@article{srco3,
+  title={Crystal structures of aragonite, strontianite, and witherite},
+  author={De Villiers, Johan PR},
+  journal={Am. Mineral.},
+  volume={56},
+  number={5-6},
+  pages={758--767},
+  year={1971},
+  publisher={Mineralogical Society of America}
+}
+
+@article{marsh1980,
+  title={Aragonite twinning in the molluscan bivalve hinge ligament},
+  author={Marsh, Mary E and Sass, Ronald L},
+  journal={Science},
+  volume={208},
+  number={4449},
+  pages={1262--1263},
+  year={1980},
+  publisher={American Association for the Advancement of Science}
+}
+
+@article{suzuki2012,
+  title={Quantitative {XRD} analysis of $\{$110$\}$ twin density in biotic aragonites},
+  author={Suzuki, Michio and Kim, Hyejin and Mukai, Hiroki and Nagasawa, Hiromichi and Kogure, Toshihiro},
+  journal={J. Struct. Biol.},
+  volume={180},
+  number={3},
+  pages={458--468},
+  year={2012},
+  publisher={Elsevier}
+}
+
+@article{gavr2019_arag,
+  title={Temperature induced twinning in aragonite: transmission electron microscopy experiments and ab initio calculations},
+  author={Gavryushkin, Pavel N and Re{\v{c}}nik, Aleksander and Daneu, Nina and Sagatov, Nursultan and Belonoshko, Anatoly B and Popov, Zakhar I and Ribi{\'c}, Vesna and Litasov, Konstantin D},
+  journal={Z. Kristallogr. Cryst. Mater.},
+  volume={234},
+  number={2},
+  pages={79--84},
+  year={2019},
+  publisher={De Gruyter}
+}
+
+@article{shin2016,
+  title={Nanotwin-governed toughening mechanism in hierarchically structured biological materials},
+  author={Shin, Yoon Ah and Yin, Sheng and Li, Xiaoyan and Lee, Subin and Moon, Sungmin and Jeong, Jiwon and Kwon, Minhyug and Yoo, Seung Jo and Kim, Young-Min and Zhang, Teng and others},
+  journal={Nat. Commun.},
+  volume={7},
+  number={1},
+  pages={1--10},
+  year={2016},
+  publisher={Nature Publishing Group}
+}
+
+@article{kresse1999,
+  title={From ultrasoft pseudopotentials to the projector augmented-wave method},
+  author={Kresse, Georg and Joubert, D},
+  journal={Phys. Rev. B},
+  volume={59},
+  number={3},
+  pages={1758},
+  year={1999},
+  publisher={APS}
+}
+
+@article{perdew1992,
+  title={Accurate and simple analytic representation of the electron-gas correlation energy},
+  author={Perdew, John P and Wang, Yue},
+  journal={Phys. Rev. B},
+  volume={45},
+  number={23},
+  pages={13244},
+  year={1992},
+  publisher={APS}
+}
+
+@article{calcite,
+  title={Crystallographic tables for the rhombohedral carbonates},
+  author={Graf, Donald L},
+  journal={Am. Mineral.},
+  volume={46},
+  number={11-12},
+  pages={1283--1316},
+  year={1961},
+  publisher={Mineralogical Society of America}
+}
+
+@article{ukita2016,
+  title={Pressure-induced phase transition of calcite and aragonite: A first principles study},
+  author={Ukita, Masaya and Toyoura, Kazuaki and Nakamura, Atsutomo and Matsunaga, Katsuyuki},
+  journal={J. Appl. Phys.},
+  volume={120},
+  number={14},
+  pages={142118},
+  year={2016},
+  publisher={AIP Publishing LLC}
+}
+
+@article{mirwald1976,
+  title={A differential thermal analysis study of the high-temperature polymorphism of calcite at high pressure},
+  author={Mirwald, Peter W},
+  journal={Contrib. Mineral. Petrol.},
+  volume={59},
+  number={1},
+  pages={33--40},
+  year={1976},
+  publisher={Springer}
+}
+
+@article{redfern2000,
+  title={Structural variations in carbonates},
+  author={Redfern, Simon AT},
+  journal={Rev. Mineral. Geochem.},
+  volume={41},
+  number={1},
+  pages={289--308},
+  year={2000},
+  publisher={Mineralogical Society of America}
+}
+
+@article{kawano2009,
+  title={Molecular dynamics simulation of the rotational order--disorder phase transition in calcite},
+  author={Kawano, Jun and Miyake, Akira and Shimobayashi, Norimasa and Kitamura, Masao},
+  journal={J. Phys. Condens. Matter},
+  volume={21},
+  number={9},
+  pages={095406},
+  year={2009},
+  publisher={IOP Publishing}
+}
+
+@unpublished{gavr2020_hexar,
+  title={Metastable structures of {CaCO$_3$} and their role in transformation of calcite to aragonite and post-aragonite},
+  author={Gavryushkin, Pavel N. and Belonoshko, Anatoly and Sagatov, Nursultan and Sagatova, Dinara and Zhitova, Elena and Krzhizhanovskaya, Mariya G. and Re\v{c}nik, Aleksander and Alexandrov, Eugeny V. and Medrish, Inna V. and Popov, Zakhar I. and Litasov, Konstantin D. }
+  note={submitted}
+}
+
+@article{shatskiy2018,
+  title={Revision of the {CaCO$_3$}--{MgCO$_3$} phase diagram at 3 and 6 {GPa}},
+  author={Shatskiy, Anton and Podborodnikov, Ivan V and Arefiev, Anton V and Minin, Daniil A and Chanyshev, Artem D and Litasov, Konstantin D},
+  journal={Am. Mineral.},
+  volume={103},
+  number={3},
+  pages={441--452},
+  year={2018},
+  publisher={Mineralogical Society of America}
+}
+
+@article{fedoraeva2019,
+  title={The join {CaCO$_3$}--{CaSiO$_3$} at 6 {GPa} with implication to {Ca}-rich lithologies trapped by kimberlitic diamonds},
+  author={Fedoraeva, Anastasia S and Shatskiy, Anton and Litasov, Konstantin D},
+  journal={High Press. Res.},
+  volume={39},
+  number={4},
+  pages={547--560},
+  year={2019},
+  publisher={Taylor \& Francis}
+}
+
+@article{bagdassarov2003,
+  title={Phase transformations in calcite from electrical impedance measurements},
+  author={Bagdassarov, NS and Slutskii, AB},
+  journal={Phase Transit.},
+  volume={76},
+  number={12},
+  pages={1015--1028},
+  year={2003},
+  publisher={Taylor \& Francis}
+}
+
+@article{li2017,
+  title={Determination of calcium carbonate and sodium carbonate melting curves up to Earth's transition zone pressures with implications for the deep carbon cycle},
+  author={Li, Zeyu and Li, Jie and Lange, Rebecca and Liu, Jiachao and Militzer, Burkhard},
+  journal={Earth Planet. Sci. Lett.},
+  volume={457},
+  pages={395--402},
+  year={2017},
+  publisher={Elsevier}
+}
+
+@article{syracuse2010,
+  title={The global range of subduction zone thermal models},
+  author={Syracuse, Ellen M and van Keken, Peter E and Abers, Geoffrey A},
+  journal={Phys. Earth Planet. Inter.},
+  volume={183},
+  number={1-2},
+  pages={73--90},
+  year={2010},
+  publisher={Elsevier}
+}
+
+@article{antao2009,
+  title={The orthorhombic structure of {{CaCO$_3$}, SrCO$_3$, PbCO3 and BaCO$_3$}: linear structural trends},
+  author={Antao, Sytle M and Hassan, Ishmael},
+  journal={Can. Mineral.},
+  volume={47},
+  number={5},
+  pages={1245--1255},
+  year={2009},
+  publisher={The Canadian Mineralogist}
+}
+
+@article{markgraf1985,
+  title={High-temperature structure refinements of calcite and magnesite},
+  author={Markgraf, Steven Alan and Reeder, Richard J},
+  journal={Am. Mineral.},
+  volume={70},
+  number={5-6},
+  pages={590--600},
+  year={1985},
+  publisher={Mineralogical Society of America}
+}
+
+@article{ye2012,
+  title={Crystal structure and thermal expansion of aragonite-group carbonates by single-crystal {X}-ray diffraction},
+  author={Ye, Yu and Smyth, Joseph R and Boni, Paul},
+  journal={Am. Mineral.},
+  volume={97},
+  number={4},
+  pages={707--712},
+  year={2012},
+  publisher={Mineralogical Society of America}
+}
+
+@article{cai2020,
+  title = {Neutron scattering study of the orientational disorder and phase transitions in barium carbonate},
+  author = {Cai, Guanqun  and Phillips, Anthony E  and Tucker, Matthew G  and Dove, Martin T },
+  year = 2020,
+  publisher = {{IOP} Publishing},
+  volume = {32},
+  number = {37},
+  pages = {374014},
+  journal = {J. Phys. Condens. Matter},
+}
+
+@article{redfern1989,
+  title={High-temperature enthalpy at the orientational order-disorder transition in calcite: implications for the calcite/aragonite phase equilibrium},
+  author={Redfern, SAT and Salje, E and Navrotsky, A},
+  journal={Contrib. Mineral. Petrol.},
+  volume={101},
+  number={4},
+  pages={479--484},
+  year={1989},
+  publisher={Springer}
+}
