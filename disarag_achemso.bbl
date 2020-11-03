@@ -239,12 +239,10 @@ Kawano,~J.; Miyake,~A.; Shimobayashi,~N.; Kitamura,~M. Molecular dynamics
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
 \EndOfBibitem
-\bibitem[Gavryushkin \latin{et~al.}()Gavryushkin, Belonoshko, Sagatov,
-  Sagatova, Zhitova, Krzhizhanovskaya, Re\v{c}nik, Alexandrov, Medrish, Popov,
-  and Litasov]{gavr2020_hexar}
+\bibitem[Gavryushkin \latin{et~al.}(2020)Gavryushkin, Belonoshko, Sagatov, Sagatova, Zhitova, Krzhizhanovskaya, Re\v{c}nik, Alexandrov, Medrish, Popov, and Litasov]{gavr2020_hexar}
 Gavryushkin,~P.~N.; Belonoshko,~A.; Sagatov,~N.; Sagatova,~D.; Zhitova,~E.;
   Krzhizhanovskaya,~M.~G.; Re\v{c}nik,~A.; Alexandrov,~E.~V.; Medrish,~I.~V.;
-  Popov,~Z.~I.; Litasov,~K.~D. \relax
+  Popov,~Z.~I., \latin{et~al.} Metastable structures of {CaCO$_3$} and their role in transformation of calcite to aragonite and post-aragonite. \emph{Submitted}.\relax
 \mciteBstWouldAddEndPunctfalse
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {}{\mcitedefaultseppunct}\relax
